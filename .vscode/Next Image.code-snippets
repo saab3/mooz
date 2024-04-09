@@ -1,0 +1,14 @@
+{
+  "nm": {
+    "scope": "javascript,typescript,javascriptreact,typescriptreact",
+    "prefix": "nm",
+    "body": [
+      "<Image",
+      "  src    = {$1}",
+      "  width  = {$2}",
+      "  height = {$3}",
+      "  alt    = {$4}",
+      "  />"
+    ]
+  }
+}
